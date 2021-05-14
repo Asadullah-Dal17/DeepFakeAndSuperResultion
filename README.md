@@ -10,3 +10,5 @@ including my Youtube, which will show step by step process
 ## Upscaling done by
 
 - https://github.com/csxmli2016/DFDNet
+
+[colab Notebook](https://colab.research.google.com/drive/1dhyphfE3MSWDew0zjiRw6zneuT5Bpfh9?usp=sharing)
