@@ -7,13 +7,13 @@ including my Youtube, which will show step by step process
 
 ## Deepfake first oder motion model
 
-[Colab Notebook](https://colab.research.google.com/drive/1hBiXoNRwxoZM-QupCboeYuaQh6bkYPDP?usp=sharing)
+[Colab Notebook](https://colab.research.google.com/drive/1P1OevHlyCvk73lWilw0VhgM025oVlqX4?usp=sharing)
 
 ## Upscaling (Increasing the Resolution of image)
 
 - https://github.com/csxmli2016/DFDNet
 
-[Colab Notebook](https://colab.research.google.com/drive/1dhyphfE3MSWDew0zjiRw6zneuT5Bpfh9?usp=sharing)
+[Colab Notebook](https://colab.research.google.com/drive/1tQS72la-4w0wQVA1qESA0hgAKOibC7SL?usp=sharing)
 
 ### Support me.
 
